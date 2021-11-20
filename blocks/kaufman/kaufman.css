@@ -5,4 +5,5 @@
   padding: 90px 0 90px 0;
   position: relative;
   overflow: hidden;
+  z-index: -1;
 }

@@ -3,5 +3,6 @@
   margin: 0;
   line-height: 18px;
   font-size: 18px;
-  font-family: "Inter-SemiBold";
+  font-family: "Inter";
+  font-weight: 600;
 }
