@@ -6,4 +6,5 @@
   flex-wrap: wrap;
   align-items: flex-start;
   margin: 0 auto 0px auto;
+  list-style-type: none;
 }
