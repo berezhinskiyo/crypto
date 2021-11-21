@@ -3,8 +3,10 @@
   width: 100%;
   min-height: 600px;
   max-height: 756px;
+  height: 100vh;
   display: flex;
   flex-direction: column;
+  justify-content: center;
   position: relative;
   overflow: hidden;
   padding: 0;
